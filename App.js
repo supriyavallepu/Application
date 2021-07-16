@@ -1,14 +1,10 @@
 import React from "react";
-import 'bootstrap/dist/css/bootstrap.css';
 import Firebase from "firebase";
-// const config = {
-//   Projecname:myapplication
-// ProjectID :
-// myapplication-9e0c4
-// Projectnumber :
-// 1026547069934
-
-// }
+const config = {
+  Projecname:myapplication,
+ProjectID:myapplication-9e0c4,
+Projectnumber :1026547069934,
+}
 class App extends React.Component {
   constructor(props) {
     super(props);
